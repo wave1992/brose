@@ -4,11 +4,12 @@
 敬请期待
 
 ###平台模块划分
-* 平台主页模块      main
+* 平台主页模块       main
 * 教学模块          teach
 * 活动模块          activity
-* 公共信息展示模块  info
-* 情怀（故事）模块  story
+* 公共信息展示模块   info
+* 情怀（故事）模块   story
+* 用户相关模块      user
 平台已定 node、express、mysql、vue.js开发。相关目录模块均按照以上模块命名
 
 ###平台简单搭建
